@@ -2,8 +2,6 @@
 
 <img src="https://chriscourses.com/img/blog/redux/redux.jpg" height="400px"/>
 
-## Overview
-
 ## Getting Started
 
 - Fork and Clone
