@@ -46,6 +46,10 @@ Answer Here
 
 7. In your own words, describe how to set up Redux for a React App.
 
+```
+Answer Here
+```
+
 ## Submission
 
-Pull Requests Due by **10am EST** following the [Pr Submission Guidelines](https://github.com/SEI-R-1-25/template_pull_request)
+Pull Request due by **10am EST** following the [PR Submission Guidelines](https://github.com/SEI-R-1-25/template_pull_request).
