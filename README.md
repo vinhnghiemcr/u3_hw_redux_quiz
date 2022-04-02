@@ -20,7 +20,7 @@ Answer Here
 Answer Here
 ```
 
-3. In your own words, describe the flow of how redux is used to manage state.
+3. In your own words, describe the flow of how Redux is used to manage state.
 
 ```
 Answer Here
@@ -38,7 +38,7 @@ Answer Here
 Answer Here
 ```
 
-6. How do we access state from redux?
+6. How do we access state from Redux?
 
 ```
 Answer Here
@@ -52,4 +52,4 @@ Answer Here
 
 ## Submission
 
-Pull Request due by **9am EST** following the [PR Submission Guidelines](https://github.com/SEI-R-11-8/template_pull_request).
+Pull Request due by **9AM EST** following the [PR Submission Guidelines](https://github.com/SEI-R-2-22/template_pull_request).
